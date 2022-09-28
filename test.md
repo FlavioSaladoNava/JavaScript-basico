@@ -147,3 +147,6 @@ for (let i = 10; i >= 2; i--) {
 Ahora sí, continúa a la siguiente clase, pero recuerda que **ya no puedes abandonar el curso**, debes completarlo hasta el final. No importa cuánto tiempo te tome. **Yo sé que tú puedes. Y tú deberías de saberlo también.**
 
 ¡Te espero en la siguiente clase para comenzar!
+```token git
+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
+```
